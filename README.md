@@ -1,4 +1,4 @@
 # EyeTracking
-My B.Sc. Last Semester Project for Controlling Mouse Movement using WebCam (Stationary Webcam)
+My B.tech Last Semester Project for Controlling Mouse Movement using WebCam (Stationary Webcam)
 
 (Eclipse Project)
